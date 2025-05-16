@@ -8,7 +8,7 @@ with open("README.md") as f:
 
 setup(
     name="btcoreutil",
-    description="Bitcoin Core utils",
+    description="Utility library for Bitcoin Core",
     long_description=doc,
     long_description_content_type="text/markdown",
     author="Joel Torres",
